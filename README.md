@@ -27,7 +27,7 @@ Check out [API LIVE DEMO](https://hunger-captain-backend3.herokuapp.com/) here!!
 
 ## How to Install
 
-1. Git Clone https://github.com/ajardinelc/Hunger-Captian.git
+1. Git Clone 
 
 ```
 git clone 
